@@ -1,2 +1,2 @@
-source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds005237	241	n/a	n/a	n/a	1613	241	241	999846214285	1377730944	619867460	638440.8095135093	395.80955332517624	1256126976	778752.0	anat,fmap,func
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds005237	241	n/a	n/a	n/a	1613	241	241	999846214285	1377730944	619867460	638440.8095135093	395.80955332517624	1256126976	778752.0	hammerAP,restAP,restPA,stroopAP,stroopPA	798051	{"0.8":1613}	anat,fmap,func
